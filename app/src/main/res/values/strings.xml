@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sandbox Approval App</string>
+    <string name="about_code_app">This app simulates a code app for approval of authentication requests.</string>
+    <string name="approve_request_title">Do you want to approve the following?</string>
+    <string name="approve_hint">AuthId: %1$s</string>
+    <string name="ready_for_requests">Ready for requests</string>
+    <string name="approve">Approve</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    <string name="app_version">Version %s</string>
+</resources>
